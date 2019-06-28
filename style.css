@@ -1,0 +1,13 @@
+body{
+margin:8px auto;
+max-width:32em;
+padding:0 8px;
+font-family:sans-serif;
+color:white;
+background-color:black;
+}
+a:link{color:#99F;}
+a:visited{color:#F9F;}
+pre{overflow-x:auto;}
+.indent p{text-indent:2em;margin-top:0;margin-bottom:0}
+.indent p:first-child{text-indent:0;}
