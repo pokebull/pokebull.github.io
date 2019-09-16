@@ -11,3 +11,4 @@ a:visited{color:#F9F;}
 pre{overflow-x:auto;}
 .indent p{text-indent:2em;margin-top:0;margin-bottom:0}
 .indent p:first-child{text-indent:0;}
+img.fullwidth{max-width:100%;height:auto;}
