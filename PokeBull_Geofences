@@ -9,7 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Southpoint_Mall"
+        "name": "Southpoint Mall"
       },
       "geometry": {
         "type": "Polygon",
@@ -211,121 +211,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Renaissance_Center (BestBuy)"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -78.94072651863098,
-              35.8983326
-            ],
-            [
-              -78.93937468528748,
-              35.89826307
-            ],
-            [
-              -78.93779754638672,
-              35.8979415
-            ],
-            [
-              -78.93696069717406,
-              35.89860202
-            ],
-            [
-              -78.9372181892395,
-              35.89951456
-            ],
-            [
-              -78.93735766410828,
-              35.90007078
-            ],
-            [
-              -78.93652081489563,
-              35.9008008
-            ],
-            [
-              -78.93572688102722,
-              35.90152213
-            ],
-            [
-              -78.93539428710938,
-              35.90238249
-            ],
-            [
-              -78.93514752388,
-              35.90347749
-            ],
-            [
-              -78.93465399742126,
-              35.90458986
-            ],
-            [
-              -78.93431067466736,
-              35.90557186
-            ],
-            [
-              -78.93350601196289,
-              35.90648432
-            ],
-            [
-              -78.93351674079894,
-              35.90764879
-            ],
-            [
-              -78.9344072341919,
-              35.90791818
-            ],
-            [
-              -78.93625259399414,
-              35.90768355
-            ],
-            [
-              -78.93719673156738,
-              35.90607589
-            ],
-            [
-              -78.9378297328949,
-              35.9049114
-            ],
-            [
-              -78.9386236667633,
-              35.90359047
-            ],
-            [
-              -78.9393961429596,
-              35.90219999
-            ],
-            [
-              -78.93959999084471,
-              35.90176546
-            ],
-            [
-              -78.93995404243469,
-              35.9006096
-            ],
-            [
-              -78.9401364326477,
-              35.89994041
-            ],
-            [
-              -78.94072651863098,
-              35.8983326
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#592E9E",
-        "fill-opacity": 0.4,
-        "name": "Aldi-Hyatt_Area"
+        "name": "Aldi-Hyatt Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -371,7 +257,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Renaissance_Village (PetCo)"
+        "name": "Renaissance Village (PetCo)"
       },
       "geometry": {
         "type": "Polygon",
@@ -521,7 +407,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "The-Lodge-at-S.Point_Apts"
+        "name": "The-Lodge-at-S.Point Apts"
       },
       "geometry": {
         "type": "Polygon",
@@ -647,7 +533,7 @@
         "stroke-opacity": 1,
         "fill": "#429F2D",
         "fill-opacity": 0.4,
-        "name": "Piney_Wood_Park"
+        "name": "Piney Wood Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -729,7 +615,7 @@
         "stroke-opacity": 1,
         "fill": "#429F2D",
         "fill-opacity": 0.4,
-        "name": "Solite_Park"
+        "name": "Solite Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -775,7 +661,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Homestead_Market (Shiki)"
+        "name": "Homestead Market (Shiki)"
       },
       "geometry": {
         "type": "Polygon",
@@ -885,7 +771,7 @@
         "stroke-opacity": 1,
         "fill": "#429F2D",
         "fill-opacity": 0.4,
-        "name": "Garrett_Road_Park"
+        "name": "Garrett Road Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -927,7 +813,7 @@
         "stroke-opacity": 1,
         "fill": "#A4352D",
         "fill-opacity": 0.4,
-        "name": "GATED-Southpoint_Crossing_Apt"
+        "name": "GATED-Southpoint Crossing Apt"
       },
       "geometry": {
         "type": "Polygon",
@@ -1045,7 +931,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Sutton_Station"
+        "name": "Sutton Station"
       },
       "geometry": {
         "type": "Polygon",
@@ -1111,7 +997,7 @@
         "stroke-opacity": 1,
         "fill": "#429F2D",
         "fill-opacity": 0.4,
-        "name": "Herndon_Park"
+        "name": "Herndon Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -1173,7 +1059,7 @@
         "stroke-opacity": 1,
         "fill": "#2F739D",
         "fill-opacity": 0.4,
-        "name": "Meridian_Office_Park"
+        "name": "Meridian Office Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -1271,7 +1157,7 @@
         "stroke-opacity": 1,
         "fill": "#A4352D",
         "fill-opacity": 0.4,
-        "name": "GATED-Emerald_Forest_Apts"
+        "name": "GATED-Emerald Forest Apts"
       },
       "geometry": {
         "type": "Polygon",
@@ -1385,7 +1271,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Patterson_Place (HomeDepot)"
+        "name": "Patterson Place (HomeDepot)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1451,7 +1337,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "New_Hope_Commons (WalMart)"
+        "name": "New Hope Commons (WalMart)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1529,7 +1415,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Oak_Creek_Village (JoAnn Fabrics)"
+        "name": "Oak Creek Village (JoAnn Fabrics)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1579,7 +1465,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "South_Square (Target/Sam's)"
+        "name": "South Square (Target/Sam's)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1661,7 +1547,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Westgate_Shopping_Ctr (Atomic_Empire)"
+        "name": "Westgate Shopping Ctr (Atomic Empire)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1771,7 +1657,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Commons@University_Place (AMC_Durham_15)"
+        "name": "Commons@University Place (AMC Durham 15)"
       },
       "geometry": {
         "type": "Polygon",
@@ -1917,7 +1803,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "The_Mews_Apartments"
+        "name": "The Mews Apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -2039,7 +1925,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Greens_of_PineGlen_Apts"
+        "name": "Greens of PineGlen Apts"
       },
       "geometry": {
         "type": "Polygon",
@@ -2137,7 +2023,7 @@
         "stroke-opacity": 1,
         "fill": "#429F2D",
         "fill-opacity": 0.4,
-        "name": "South_Regional_Library"
+        "name": "South Regional Library"
       },
       "geometry": {
         "type": "Polygon",
@@ -2191,7 +2077,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "Lowes_Grove_Baptist"
+        "name": "Lowes Grove Baptist"
       },
       "geometry": {
         "type": "Polygon",
@@ -2265,7 +2151,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Triangle_Village_Shopping_Ctr (Arby's)"
+        "name": "Triangle Village Shopping Ctr (Arby's)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2319,7 +2205,7 @@
         "stroke-opacity": 1,
         "fill": "#2F739D",
         "fill-opacity": 0.4,
-        "name": "5-Gates_2the_City"
+        "name": "5-Gates 2the City"
       },
       "geometry": {
         "type": "Polygon",
@@ -2361,7 +2247,7 @@
         "stroke-opacity": 1,
         "fill": "#2F739D",
         "fill-opacity": 0.4,
-        "name": "Hendrick_Southpoint_AutoMall"
+        "name": "Hendrick Southpoint AutoMall"
       },
       "geometry": {
         "type": "Polygon",
@@ -2459,7 +2345,7 @@
         "stroke-opacity": 1,
         "fill": "#2F739D",
         "fill-opacity": 0.4,
-        "name": "Southpoint_Autopark (Lexus/Honda)"
+        "name": "Southpoint Autopark (Lexus/Honda)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2605,7 +2491,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "Triangle_Grace_Church (PoGo-Friendly)"
+        "name": "Triangle Grace Church (PoGo-Friendly)"
       },
       "geometry": {
         "type": "Polygon",
@@ -2679,7 +2565,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "Holy_Infant_Catholic_Church"
+        "name": "Holy Infant Catholic Church"
       },
       "geometry": {
         "type": "Polygon",
@@ -2733,7 +2619,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Southpoint_Glen_Apartments"
+        "name": "Southpoint Glen Apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -2815,7 +2701,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Woodlake_Reserve_Apartments"
+        "name": "Woodlake Reserve Apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -2905,7 +2791,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Atria_Southpoint_Assisted_Living"
+        "name": "Atria Southpoint Assisted Living"
       },
       "geometry": {
         "type": "Polygon",
@@ -2971,7 +2857,7 @@
         "stroke-opacity": 1,
         "fill": "#A4352D",
         "fill-opacity": 0.4,
-        "name": "GATED-The_Village@Auburn_Apts"
+        "name": "GATED-The Village@Auburn Apts"
       },
       "geometry": {
         "type": "Polygon",
@@ -3065,7 +2951,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Legacy@Meridian_Apts"
+        "name": "Legacy@Meridian Apts"
       },
       "geometry": {
         "type": "Polygon",
@@ -3163,7 +3049,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Copper_Creek_Neighborhood"
+        "name": "Copper Creek Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -3241,7 +3127,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Wellington_Forest_Neighborhood"
+        "name": "Wellington Forest Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -3379,7 +3265,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Eagle's_Point_Neighborhood"
+        "name": "Eagle's Point Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -3485,7 +3371,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Huntington_Ridge_Neighborhood"
+        "name": "Huntington Ridge Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -3563,7 +3449,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Chancellor's_Ridge_Neighborhood"
+        "name": "Chancellor's Ridge Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -3749,7 +3635,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "New_Hope_Church"
+        "name": "New Hope Church"
       },
       "geometry": {
         "type": "Polygon",
@@ -3831,7 +3717,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Woodcroft_Shopping_Center (Chubby's)"
+        "name": "Woodcroft Shopping Center (Chubby's)"
       },
       "geometry": {
         "type": "Polygon",
@@ -3917,7 +3803,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Hope_Valley_Commons (Denny's)"
+        "name": "Hope Valley Commons (Denny's)"
       },
       "geometry": {
         "type": "Polygon",
@@ -4007,7 +3893,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Bridges@Southpoint_Apartments"
+        "name": "Bridges@Southpoint Apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -4061,7 +3947,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "ARIUM_Southpoint_Apartments"
+        "name": "ARIUM Southpoint Apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -4139,7 +4025,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "Hope_Valley_Church"
+        "name": "Hope Valley Church"
       },
       "geometry": {
         "type": "Polygon",
@@ -4197,7 +4083,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Pine_Ridge_Apartments"
+        "name": "Pine Ridge Apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -4303,7 +4189,7 @@
         "stroke-opacity": 1,
         "fill": "#A4352D",
         "fill-opacity": 0.4,
-        "name": "GATED-Berkley@Southpoint_Apartments"
+        "name": "GATED-Berkley@Southpoint Apartments"
       },
       "geometry": {
         "type": "Polygon",
@@ -4381,7 +4267,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "Community_Baptist_Church"
+        "name": "Community Baptist Church"
       },
       "geometry": {
         "type": "Polygon",
@@ -4579,7 +4465,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Crooked_Creek_Neighborhood"
+        "name": "Crooked Creek Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -4781,7 +4667,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "The_Hills@Southpoint_Neighborhood"
+        "name": "The Hills@Southpoint Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -4947,7 +4833,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Woodcroft_Neighborhood"
+        "name": "Woodcroft Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -5429,7 +5315,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Woodlake_Neighborhood"
+        "name": "Woodlake Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -5683,7 +5569,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Parkwood_Neighborhood"
+        "name": "Parkwood Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -6241,7 +6127,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Hope_Valley"
+        "name": "Hope Valley"
       },
       "geometry": {
         "type": "Polygon",
@@ -6671,7 +6557,7 @@
         "stroke-opacity": 1,
         "fill": "#2F739D",
         "fill-opacity": 0.4,
-        "name": "Blue_Cross_Campus"
+        "name": "Blue Cross Campus (University Dr)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6825,7 +6711,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Shannon_Plaza (PostOffice)"
+        "name": "Shannon Plaza (PostOffice)"
       },
       "geometry": {
         "type": "Polygon",
@@ -6947,7 +6833,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "Markham_Chapel_Baptist_Church"
+        "name": "CHURCH: Markham Chapel Baptist"
       },
       "geometry": {
         "type": "Polygon",
@@ -7009,7 +6895,7 @@
         "stroke-opacity": 1,
         "fill": "#429F2D",
         "fill-opacity": 0.4,
-        "name": "Southwest_Library_&SSA"
+        "name": "Southwest Library &SSA"
       },
       "geometry": {
         "type": "Polygon",
@@ -7091,7 +6977,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "The_Valley_Neighborhood (by SW libary)"
+        "name": "The Valley Neighborhood (by SW libary)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7337,7 +7223,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "South_Point_Apartments (near SW Library)"
+        "name": "South Point Apartments (near SW Library)"
       },
       "geometry": {
         "type": "Polygon",
@@ -7411,7 +7297,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "South_Square_Townhomes"
+        "name": "South Square Townhomes"
       },
       "geometry": {
         "type": "Polygon",
@@ -7473,7 +7359,7 @@
         "stroke-opacity": 1,
         "fill": "#A4352D",
         "fill-opacity": 0.4,
-        "name": "GATED-Arium_Pinnacle_Ridge_Apts"
+        "name": "GATED-Arium Pinnacle Ridge Apts"
       },
       "geometry": {
         "type": "Polygon",
@@ -7595,7 +7481,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Valley_Run_Neighborhood"
+        "name": "Valley Run Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -7693,7 +7579,7 @@
         "stroke-opacity": 1,
         "fill": "#2F739D",
         "fill-opacity": 0.4,
-        "name": "South_Square_Office_Park"
+        "name": "South Square Office Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -7767,7 +7653,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Massey_Chapel_Road_Area"
+        "name": "Massey Chapel Road Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -7901,7 +7787,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Wyndcross_Neighborhood"
+        "name": "Wyndcross Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -8059,7 +7945,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Southampton_Neighborhood"
+        "name": "Southampton Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -8121,7 +8007,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Jordan@Southpoint_Neighborhood"
+        "name": "Jordan@Southpoint Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -8223,7 +8109,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Audubon_Park_Neighborhood"
+        "name": "Audubon Park Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -8381,7 +8267,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "The_Ridges_of_Parkwood_Neighborhood"
+        "name": "The Ridges of Parkwood Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -8507,7 +8393,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Fairfield_Neighborhood"
+        "name": "Fairfield Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -8661,7 +8547,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Fern_Valley"
+        "name": "Fern Valley"
       },
       "geometry": {
         "type": "Polygon",
@@ -8727,7 +8613,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Southpoint_Crossing (RubyTuesday)"
+        "name": "Southpoint Crossing (RubyTuesday)"
       },
       "geometry": {
         "type": "Polygon",
@@ -8877,7 +8763,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "South_of_Hope_Valley_Neighborhood"
+        "name": "South of Hope Valley Neighborhood"
       },
       "geometry": {
         "type": "Polygon",
@@ -9067,7 +8953,7 @@
         "stroke-opacity": 1,
         "fill": "#592E9E",
         "fill-opacity": 0.4,
-        "name": "Hwy55_South_of_40_Area"
+        "name": "Hwy55 South of 40 Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -9329,7 +9215,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Hwy54_Neighborhoods_East_of_Fayetteville"
+        "name": "Hwy54 Neighborhoods East of Fayetteville"
       },
       "geometry": {
         "type": "Polygon",
@@ -9619,7 +9505,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Grandale/Herndon_Neighborhoods"
+        "name": "Grandale/Herndon Neighborhoods"
       },
       "geometry": {
         "type": "Polygon",
@@ -10053,7 +9939,7 @@
         "stroke-opacity": 1,
         "fill": "#9C8530",
         "fill-opacity": 0.4,
-        "name": "Carpenter-Fletcher_Neighborhood_Area"
+        "name": "Carpenter-Fletcher Neighborhood Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -10715,7 +10601,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "St Barbara Orthodox Greek Church"
+        "name": "CHURCH: St Barbara Orthodox Greek Church"
       },
       "geometry": {
         "type": "Polygon",
@@ -11751,7 +11637,7 @@
         "stroke-opacity": 1,
         "fill": "#FDFCE2",
         "fill-opacity": 0.4,
-        "name": "CHURCH - Coz Memorial Free Will Baptist"
+        "name": "CHURCH: Coz Memorial Free Will Baptist"
       },
       "geometry": {
         "type": "Polygon",
@@ -11796,6 +11682,2062 @@
             [
               -78.89323264360428,
               35.955646270324415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#592E9E",
+        "fill-opacity": 0.4,
+        "name": "Renaissance Center (Best Buy Area)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.93764197826385,
+              35.900322808722294
+            ],
+            [
+              -78.93720746040344,
+              35.90024241907268
+            ],
+            [
+              -78.93673002719879,
+              35.90064653918749
+            ],
+            [
+              -78.9361372590065,
+              35.90117232678585
+            ],
+            [
+              -78.93571883440018,
+              35.901604686698
+            ],
+            [
+              -78.93548011779785,
+              35.90222389150392
+            ],
+            [
+              -78.93521457910538,
+              35.902469399436676
+            ],
+            [
+              -78.9348229765892,
+              35.90237163088215
+            ],
+            [
+              -78.93455475568771,
+              35.90273228761765
+            ],
+            [
+              -78.93447697162628,
+              35.90312770455938
+            ],
+            [
+              -78.93494099378586,
+              35.90357526201096
+            ],
+            [
+              -78.93487930297852,
+              35.90388159841923
+            ],
+            [
+              -78.93463790416718,
+              35.9043204612783
+            ],
+            [
+              -78.9344796538353,
+              35.90510910475529
+            ],
+            [
+              -78.93429726362228,
+              35.905715246879396
+            ],
+            [
+              -78.93386542797089,
+              35.906201895260466
+            ],
+            [
+              -78.93359720706938,
+              35.9064495633767
+            ],
+            [
+              -78.93358916044235,
+              35.90701441758396
+            ],
+            [
+              -78.93359452486038,
+              35.90759447520816
+            ],
+            [
+              -78.93393784761429,
+              35.90774654953723
+            ],
+            [
+              -78.93444746732712,
+              35.90766833991877
+            ],
+            [
+              -78.93492221832275,
+              35.90741850311981
+            ],
+            [
+              -78.93560618162155,
+              35.90743371059969
+            ],
+            [
+              -78.93616139888763,
+              35.90748367801299
+            ],
+            [
+              -78.9366227388382,
+              35.90716866553201
+            ],
+            [
+              -78.93729597330093,
+              35.906002022180395
+            ],
+            [
+              -78.93788874149321,
+              35.9048722952807
+            ],
+            [
+              -78.93861562013626,
+              35.90361654145425
+            ],
+            [
+              -78.93890529870987,
+              35.903097287941684
+            ],
+            [
+              -78.93944442272186,
+              35.90211091414625
+            ],
+            [
+              -78.93980652093887,
+              35.901111492035774
+            ],
+            [
+              -78.94010692834854,
+              35.900085984925894
+            ],
+            [
+              -78.93944710493088,
+              35.89998604072581
+            ],
+            [
+              -78.93917888402939,
+              35.90006643063582
+            ],
+            [
+              -78.93882483243942,
+              35.90016854743077
+            ],
+            [
+              -78.93823742866516,
+              35.900164202037935
+            ],
+            [
+              -78.93796116113663,
+              35.90036191717096
+            ],
+            [
+              -78.93764197826385,
+              35.900322808722294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#A4352D",
+        "fill-opacity": 0.4,
+        "name": "GATED: Southpoint Village Apartments"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.9372369647026,
+              35.90021417404126
+            ],
+            [
+              -78.93794775009154,
+              35.900351053714935
+            ],
+            [
+              -78.93824011087418,
+              35.90015985664485
+            ],
+            [
+              -78.93883019685745,
+              35.90015768394822
+            ],
+            [
+              -78.93943101167679,
+              35.899992558829666
+            ],
+            [
+              -78.93944978713989,
+              35.8999751772182
+            ],
+            [
+              -78.9400988817215,
+              35.900075121431996
+            ],
+            [
+              -78.9401525259018,
+              35.89941027276767
+            ],
+            [
+              -78.94033223390579,
+              35.89891054623917
+            ],
+            [
+              -78.94047439098358,
+              35.89848468983805
+            ],
+            [
+              -78.93958389759064,
+              35.898371707143006
+            ],
+            [
+              -78.93905013799667,
+              35.89833911595099
+            ],
+            [
+              -78.93853247165679,
+              35.898289142763865
+            ],
+            [
+              -78.93803894519806,
+              35.89820875104877
+            ],
+            [
+              -78.9377760887146,
+              35.89809142245322
+            ],
+            [
+              -78.93756419420242,
+              35.8981305320044
+            ],
+            [
+              -78.93697410821915,
+              35.898597672371835
+            ],
+            [
+              -78.93719673156738,
+              35.899453727099306
+            ],
+            [
+              -78.9372369647026,
+              35.90021417404126
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#429F2D",
+        "fill-opacity": 0.4,
+        "name": "Leigh Farm Park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.98560523986816,
+              35.928988460714415
+            ],
+            [
+              -78.98483276367188,
+              35.92587823161719
+            ],
+            [
+              -78.98545503616333,
+              35.923028528854026
+            ],
+            [
+              -78.98524045944214,
+              35.921499377719876
+            ],
+            [
+              -78.98489713668823,
+              35.91948363332367
+            ],
+            [
+              -78.97942543029785,
+              35.92276788018289
+            ],
+            [
+              -78.98131370544434,
+              35.924436016833724
+            ],
+            [
+              -78.98202180862425,
+              35.92570447219354
+            ],
+            [
+              -78.98131370544434,
+              35.9267643987388
+            ],
+            [
+              -78.9812707901001,
+              35.928380324982115
+            ],
+            [
+              -78.9818286895752,
+              35.928380324982115
+            ],
+            [
+              -78.9818286895752,
+              35.9290058359523
+            ],
+            [
+              -78.98560523986816,
+              35.928988460714415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#429F2D",
+        "fill-opacity": 0.4,
+        "name": "Markham Memorial Gardens"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.98691415786743,
+              35.92946627836556
+            ],
+            [
+              -78.98344874382019,
+              35.92939677779577
+            ],
+            [
+              -78.98203253746033,
+              35.93047402976235
+            ],
+            [
+              -78.98234367370604,
+              35.93158601639682
+            ],
+            [
+              -78.98402810096741,
+              35.93160339106389
+            ],
+            [
+              -78.98541212081909,
+              35.931638140386575
+            ],
+            [
+              -78.98672103881836,
+              35.93158601639682
+            ],
+            [
+              -78.987375497818,
+              35.93068252844764
+            ],
+            [
+              -78.98691415786743,
+              35.92946627836556
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#FDFCE2",
+        "fill-opacity": 0.4,
+        "name": "CHURCH: Morning Star Missionary Baptist"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.90756905078888,
+              35.93814902516265
+            ],
+            [
+              -78.90850245952606,
+              35.93826195105437
+            ],
+            [
+              -78.9093554019928,
+              35.938327100533904
+            ],
+            [
+              -78.9095538854599,
+              35.938092562156264
+            ],
+            [
+              -78.90958607196806,
+              35.93785802308269
+            ],
+            [
+              -78.90843808650969,
+              35.937619139977514
+            ],
+            [
+              -78.90782117843628,
+              35.937497526483
+            ],
+            [
+              -78.90756905078888,
+              35.93814902516265
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#9C8530",
+        "fill-opacity": 0.4,
+        "name": "Hope Valley Farms North Neighborhood"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.9338493347168,
+              35.93506956077522
+            ],
+            [
+              -78.93281936645508,
+              35.934444097779405
+            ],
+            [
+              -78.93084526062012,
+              35.934548341955704
+            ],
+            [
+              -78.92912864685059,
+              35.934791577832506
+            ],
+            [
+              -78.92848491668701,
+              35.935660271282785
+            ],
+            [
+              -78.92741203308105,
+              35.93579926134891
+            ],
+            [
+              -78.92573833465576,
+              35.93586875629033
+            ],
+            [
+              -78.92402172088623,
+              35.93579926134891
+            ],
+            [
+              -78.92269134521484,
+              35.9355560285728
+            ],
+            [
+              -78.9223051071167,
+              35.93496531728625
+            ],
+            [
+              -78.92200469970703,
+              35.934027119699515
+            ],
+            [
+              -78.92123222351074,
+              35.93354064249312
+            ],
+            [
+              -78.92003059387207,
+              35.933019413592774
+            ],
+            [
+              -78.9193868637085,
+              35.93222018927089
+            ],
+            [
+              -78.91857147216795,
+              35.931455706272125
+            ],
+            [
+              -78.91801357269287,
+              35.93086496434623
+            ],
+            [
+              -78.91711235046387,
+              35.931629453057326
+            ],
+            [
+              -78.91608238220215,
+              35.93225493832247
+            ],
+            [
+              -78.91488075256348,
+              35.933019413592774
+            ],
+            [
+              -78.91586780548096,
+              35.93388812651746
+            ],
+            [
+              -78.91603946685791,
+              35.934652585994556
+            ],
+            [
+              -78.9168119430542,
+              35.93534754274041
+            ],
+            [
+              -78.91788482666014,
+              35.93583400882726
+            ],
+            [
+              -78.9193868637085,
+              35.93635521916957
+            ],
+            [
+              -78.9202880859375,
+              35.936911173079984
+            ],
+            [
+              -78.9206314086914,
+              35.938301040748534
+            ],
+            [
+              -78.92088890075684,
+              35.93937817138183
+            ],
+            [
+              -78.92088890075684,
+              35.941011212407496
+            ],
+            [
+              -78.92084598541258,
+              35.94250524166067
+            ],
+            [
+              -78.92058849334717,
+              35.943964498780794
+            ],
+            [
+              -78.92110347747803,
+              35.9453889856921
+            ],
+            [
+              -78.92221927642822,
+              35.94653550528586
+            ],
+            [
+              -78.92367839813232,
+              35.947682008243845
+            ],
+            [
+              -78.924880027771,
+              35.94705664505633
+            ],
+            [
+              -78.9263391494751,
+              35.94639653409989
+            ],
+            [
+              -78.92741203308105,
+              35.945527958650096
+            ],
+            [
+              -78.92805576324463,
+              35.94438142443721
+            ],
+            [
+              -78.9281415939331,
+              35.94288743065376
+            ],
+            [
+              -78.9281415939331,
+              35.941601878511335
+            ],
+            [
+              -78.92839908599854,
+              35.94052477818371
+            ],
+            [
+              -78.92874240875243,
+              35.9394824090512
+            ],
+            [
+              -78.92934322357178,
+              35.93844002617123
+            ],
+            [
+              -78.93050193786621,
+              35.937779843236825
+            ],
+            [
+              -78.93136024475098,
+              35.93705016094662
+            ],
+            [
+              -78.93213272094727,
+              35.93614673544506
+            ],
+            [
+              -78.9329481124878,
+              35.9355560285728
+            ],
+            [
+              -78.9338493347168,
+              35.93506956077522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#592E9E",
+        "fill-opacity": 0.4,
+        "name": "Shoppes of Hope Valley (Roxboro St. DMV area)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.92263770103455,
+              35.95027026435508
+            ],
+            [
+              -78.92259478569031,
+              35.949983649564594
+            ],
+            [
+              -78.92277717590332,
+              35.949419102239204
+            ],
+            [
+              -78.92302393913269,
+              35.948906663482006
+            ],
+            [
+              -78.92337799072266,
+              35.94835079395344
+            ],
+            [
+              -78.9238715171814,
+              35.94790783262295
+            ],
+            [
+              -78.92334580421446,
+              35.94749092557276
+            ],
+            [
+              -78.92276644706726,
+              35.94699584559354
+            ],
+            [
+              -78.92215490341187,
+              35.94651813390097
+            ],
+            [
+              -78.92166137695312,
+              35.94605779081015
+            ],
+            [
+              -78.92088890075684,
+              35.9468655608729
+            ],
+            [
+              -78.92156481742859,
+              35.94741275525596
+            ],
+            [
+              -78.92131805419922,
+              35.94770806493591
+            ],
+            [
+              -78.92097473144531,
+              35.94821182596021
+            ],
+            [
+              -78.92062067985535,
+              35.94874164012386
+            ],
+            [
+              -78.9204490184784,
+              35.94917591137896
+            ],
+            [
+              -78.92056703567505,
+              35.94961018024711
+            ],
+            [
+              -78.92069578170776,
+              35.950070502641196
+            ],
+            [
+              -78.92127513885498,
+              35.95026157907368
+            ],
+            [
+              -78.92195105552673,
+              35.95013998503376
+            ],
+            [
+              -78.92211198806763,
+              35.950278949635546
+            ],
+            [
+              -78.92263770103455,
+              35.95027026435508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#592E9E",
+        "fill-opacity": 0.4,
+        "name": "Lowe's Shopping Center, MLK & Fayetteville"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.91188740730286,
+              35.9411849381904
+            ],
+            [
+              -78.91102910041809,
+              35.94082879992443
+            ],
+            [
+              -78.91012787818909,
+              35.94042922825222
+            ],
+            [
+              -78.90901207923889,
+              35.94008177298218
+            ],
+            [
+              -78.90752077102661,
+              35.93975168906075
+            ],
+            [
+              -78.90695214271545,
+              35.939630078847465
+            ],
+            [
+              -78.90597581863403,
+              35.94214042317032
+            ],
+            [
+              -78.9053213596344,
+              35.943669175109925
+            ],
+            [
+              -78.90743494033813,
+              35.94403398654295
+            ],
+            [
+              -78.9103102684021,
+              35.94472017491335
+            ],
+            [
+              -78.91184449195862,
+              35.94459857234541
+            ],
+            [
+              -78.91393661499023,
+              35.94388632497531
+            ],
+            [
+              -78.91268134117126,
+              35.942713708613304
+            ],
+            [
+              -78.91190886497498,
+              35.94190589610864
+            ],
+            [
+              -78.91219854354858,
+              35.94129785974453
+            ],
+            [
+              -78.91188740730286,
+              35.9411849381904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#FDFCE2",
+        "fill-opacity": 0.4,
+        "name": "CHURCH: White Rock Baptist"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.91018152236938,
+              35.95817781685796
+            ],
+            [
+              -78.91158699989319,
+              35.95827334532714
+            ],
+            [
+              -78.91226291656494,
+              35.95820387008828
+            ],
+            [
+              -78.91230583190917,
+              35.95724857935675
+            ],
+            [
+              -78.91122221946716,
+              35.95728331740396
+            ],
+            [
+              -78.90957534313202,
+              35.95726160612623
+            ],
+            [
+              -78.90931785106659,
+              35.957404900448914
+            ],
+            [
+              -78.91018152236938,
+              35.95817781685796
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0000",
+        "fill-opacity": 0.4,
+        "name": "Chapel Hill PoGo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.070997,
+              35.960084
+            ],
+            [
+              -79.094408,
+              35.938484
+            ],
+            [
+              -79.114008,
+              35.923714
+            ],
+            [
+              -79.111831,
+              35.889974
+            ],
+            [
+              -79.068002,
+              35.868575
+            ],
+            [
+              -79.041052,
+              35.874973
+            ],
+            [
+              -79.000762,
+              35.898134
+            ],
+            [
+              -78.996679,
+              35.919083
+            ],
+            [
+              -78.998584,
+              35.952591
+            ],
+            [
+              -79.035879,
+              35.971983
+            ],
+            [
+              -79.067185,
+              35.973966
+            ],
+            [
+              -79.070997,
+              35.960084
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0000",
+        "fill-opacity": 0.4,
+        "name": "Bull City PoGo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.968697,
+              35.948273
+            ],
+            [
+              -78.96492,
+              35.958278
+            ],
+            [
+              -78.95462,
+              35.964391
+            ],
+            [
+              -78.928528,
+              35.969115
+            ],
+            [
+              -78.902435,
+              35.948551
+            ],
+            [
+              -78.869476,
+              35.956332
+            ],
+            [
+              -78.84407,
+              35.967448
+            ],
+            [
+              -78.861923,
+              36.042992
+            ],
+            [
+              -78.935051,
+              36.070747
+            ],
+            [
+              -78.990669,
+              36.054373
+            ],
+            [
+              -78.995819,
+              36.015782
+            ],
+            [
+              -78.984833,
+              36.001341
+            ],
+            [
+              -78.97213,
+              35.99023
+            ],
+            [
+              -78.97831,
+              35.971616
+            ],
+            [
+              -78.97831,
+              35.961057
+            ],
+            [
+              -78.968697,
+              35.948273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#2F739D",
+        "fill-opacity": 0.4,
+        "name": "Eastwood Office Park of Hwy54"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.9940595626831,
+              35.912236955488794
+            ],
+            [
+              -78.99410247802734,
+              35.90959531550569
+            ],
+            [
+              -78.99324417114258,
+              35.90768354735064
+            ],
+            [
+              -78.99032592773438,
+              35.90903916953376
+            ],
+            [
+              -78.98702144622803,
+              35.91029049247343
+            ],
+            [
+              -78.98616313934326,
+              35.910672837202206
+            ],
+            [
+              -78.98800849914551,
+              35.91251501772472
+            ],
+            [
+              -78.99006843566895,
+              35.9131058967311
+            ],
+            [
+              -78.9940595626831,
+              35.912236955488794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#592E9E",
+        "fill-opacity": 0.4,
+        "name": "Falconbridge Center (Pizza Amante area)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.9868712425232,
+              35.91026442344738
+            ],
+            [
+              -78.98662447929382,
+              35.90989945618063
+            ],
+            [
+              -78.98658156394958,
+              35.90945627937918
+            ],
+            [
+              -78.98650646209717,
+              35.908761095081935
+            ],
+            [
+              -78.98572325706482,
+              35.9089957204651
+            ],
+            [
+              -78.9845323562622,
+              35.90949972819495
+            ],
+            [
+              -78.9837384223938,
+              35.909803869237344
+            ],
+            [
+              -78.9836847782135,
+              35.90929117366162
+            ],
+            [
+              -78.98296594619751,
+              35.90936069190048
+            ],
+            [
+              -78.98174285888672,
+              35.90997766359379
+            ],
+            [
+              -78.98099184036255,
+              35.91050773402327
+            ],
+            [
+              -78.98224711418152,
+              35.91139407336509
+            ],
+            [
+              -78.98314833641052,
+              35.91192413430524
+            ],
+            [
+              -78.98372769355774,
+              35.91193282379927
+            ],
+            [
+              -78.98517608642578,
+              35.91110731760577
+            ],
+            [
+              -78.98615241050719,
+              35.91063807866686
+            ],
+            [
+              -78.9868712425232,
+              35.91026442344738
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0000",
+        "fill-opacity": 0.4,
+        "name": "PokéBull"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.97513389587401,
+              35.975714038638934
+            ],
+            [
+              -78.9777946472168,
+              35.975714038638934
+            ],
+            [
+              -78.98002624511719,
+              35.97529727835693
+            ],
+            [
+              -78.98749351501465,
+              35.97529727835693
+            ],
+            [
+              -78.98998260498047,
+              35.97613079672041
+            ],
+            [
+              -78.99247169494629,
+              35.97606133719299
+            ],
+            [
+              -78.99787902832031,
+              35.98147899676998
+            ],
+            [
+              -79.00285720825195,
+              35.97870075626405
+            ],
+            [
+              -79.0056037902832,
+              35.976686470739395
+            ],
+            [
+              -79.00723457336426,
+              35.974463751191486
+            ],
+            [
+              -79.0078353881836,
+              35.97175472711624
+            ],
+            [
+              -79.00757789611816,
+              35.969601333969365
+            ],
+            [
+              -79.00989532470703,
+              35.96626693192198
+            ],
+            [
+              -79.01152610778809,
+              35.962098731339594
+            ],
+            [
+              -79.01264190673828,
+              35.95994507483455
+            ],
+            [
+              -79.00611877441406,
+              35.956401834730976
+            ],
+            [
+              -79.00028228759766,
+              35.95202467162256
+            ],
+            [
+              -78.9960765838623,
+              35.94750829674379
+            ],
+            [
+              -78.99290084838867,
+              35.94257473070598
+            ],
+            [
+              -78.99058341979979,
+              35.93652895518664
+            ],
+            [
+              -78.98792266845703,
+              35.93041321754224
+            ],
+            [
+              -78.9862060546875,
+              35.924714036187886
+            ],
+            [
+              -78.98560523986816,
+              35.92089118439153
+            ],
+            [
+              -78.98440361022949,
+              35.91672058986451
+            ],
+            [
+              -78.98097038269043,
+              35.91157655376172
+            ],
+            [
+              -78.97745132446289,
+              35.90823970285074
+            ],
+            [
+              -78.97161483764648,
+              35.90483318906075
+            ],
+            [
+              -78.96835327148438,
+              35.90427700961863
+            ],
+            [
+              -78.96852493286133,
+              35.89085799599132
+            ],
+            [
+              -78.97127151489258,
+              35.86213505613972
+            ],
+            [
+              -78.97015571594238,
+              35.852326534859166
+            ],
+            [
+              -78.89144897460938,
+              35.874654809042845
+            ],
+            [
+              -78.8656997680664,
+              35.872637871412905
+            ],
+            [
+              -78.83462905883789,
+              35.87708897573244
+            ],
+            [
+              -78.84733200073242,
+              35.8919010060389
+            ],
+            [
+              -78.84896278381348,
+              35.9190144440679
+            ],
+            [
+              -78.83583068847656,
+              35.94813365635662
+            ],
+            [
+              -78.84879112243652,
+              35.97008758916897
+            ],
+            [
+              -78.8499927520752,
+              35.96911507577482
+            ],
+            [
+              -78.85085105895996,
+              35.96779521700724
+            ],
+            [
+              -78.85110855102539,
+              35.965155433279946
+            ],
+            [
+              -78.85308265686035,
+              35.96453020841806
+            ],
+            [
+              -78.85454177856445,
+              35.9635576265708
+            ],
+            [
+              -78.85685920715332,
+              35.96362709710001
+            ],
+            [
+              -78.86818885803223,
+              35.969601333969365
+            ],
+            [
+              -78.87067794799805,
+              35.9614734822756
+            ],
+            [
+              -78.87162208557129,
+              35.96043138950159
+            ],
+            [
+              -78.8715362548828,
+              35.95925033440124
+            ],
+            [
+              -78.87248039245605,
+              35.957582932427066
+            ],
+            [
+              -78.87677192687988,
+              35.95765240821211
+            ],
+            [
+              -78.88243675231934,
+              35.95529019723648
+            ],
+            [
+              -78.89213562011719,
+              35.95570706313024
+            ],
+            [
+              -78.89342308044434,
+              35.955220719373614
+            ],
+            [
+              -78.89608383178711,
+              35.95327531440302
+            ],
+            [
+              -78.89814376831055,
+              35.95167726733645
+            ],
+            [
+              -78.90398025512695,
+              35.94938436073359
+            ],
+            [
+              -78.90638351440428,
+              35.95390062836848
+            ],
+            [
+              -78.90732765197754,
+              35.95563758563406
+            ],
+            [
+              -78.91067504882811,
+              35.95841663781429
+            ],
+            [
+              -78.91101837158203,
+              35.96001454854175
+            ],
+            [
+              -78.9151382446289,
+              35.960917701174004
+            ],
+            [
+              -78.91745567321777,
+              35.9642523291126
+            ],
+            [
+              -78.92011642456055,
+              35.966475336175506
+            ],
+            [
+              -78.92475128173828,
+              35.969254006993154
+            ],
+            [
+              -78.9286994934082,
+              35.97161580029862
+            ],
+            [
+              -78.9378833770752,
+              35.96932347251063
+            ],
+            [
+              -78.9455223083496,
+              35.9675868162375
+            ],
+            [
+              -78.94938468933105,
+              35.9675868162375
+            ],
+            [
+              -78.9547061920166,
+              35.966475336175506
+            ],
+            [
+              -78.95487785339355,
+              35.97022651867593
+            ],
+            [
+              -78.95831108093262,
+              35.96980972942163
+            ],
+            [
+              -78.96251678466797,
+              35.96842041601598
+            ],
+            [
+              -78.96483421325684,
+              35.9664058681521
+            ],
+            [
+              -78.96440505981445,
+              35.96376603797507
+            ],
+            [
+              -78.96191596984863,
+              35.961612426939865
+            ],
+            [
+              -78.96552085876465,
+              35.959597705381825
+            ],
+            [
+              -78.96697998046875,
+              35.957513456580905
+            ],
+            [
+              -78.96663665771484,
+              35.9542480228771
+            ],
+            [
+              -78.9668083190918,
+              35.951746748315905
+            ],
+            [
+              -78.96912574768066,
+              35.94889797805068
+            ],
+            [
+              -78.9723014831543,
+              35.95403958635525
+            ],
+            [
+              -78.9744472503662,
+              35.958277687527534
+            ],
+            [
+              -78.97693634033203,
+              35.96168189918032
+            ],
+            [
+              -78.97590637207031,
+              35.965989058728326
+            ],
+            [
+              -78.97693634033203,
+              35.97008758916897
+            ],
+            [
+              -78.97624969482422,
+              35.97279667045504
+            ],
+            [
+              -78.97513389587401,
+              35.975714038638934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#9C8530",
+        "fill-opacity": 0.4,
+        "name": "Forestview Heights"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.91561031341551,
+              35.961456114175384
+            ],
+            [
+              -78.91812086105347,
+              35.95945875717292
+            ],
+            [
+              -78.92054557800292,
+              35.957027123946574
+            ],
+            [
+              -78.92071723937988,
+              35.95390062836848
+            ],
+            [
+              -78.9196228981018,
+              35.95225048358929
+            ],
+            [
+              -78.91829252243042,
+              35.952198373192715
+            ],
+            [
+              -78.91691923141478,
+              35.95298002553207
+            ],
+            [
+              -78.9158034324646,
+              35.95332742408921
+            ],
+            [
+              -78.91247749328613,
+              35.95344901322327
+            ],
+            [
+              -78.91247749328613,
+              35.955081763464584
+            ],
+            [
+              -78.91320705413818,
+              35.95746134965615
+            ],
+            [
+              -78.9141297340393,
+              35.95813873699635
+            ],
+            [
+              -78.91503095626831,
+              35.95909401696152
+            ],
+            [
+              -78.91483783721924,
+              35.96055296770042
+            ],
+            [
+              -78.91477346420288,
+              35.96090033295155
+            ],
+            [
+              -78.91561031341551,
+              35.961456114175384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#429F2D",
+        "fill-opacity": 0.4,
+        "name": "Beechwood Cemetery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.91473054885864,
+              35.96083086002356
+            ],
+            [
+              -78.91503095626831,
+              35.95911138558121
+            ],
+            [
+              -78.91415119171143,
+              35.95819084347419
+            ],
+            [
+              -78.91230583190917,
+              35.95819084347419
+            ],
+            [
+              -78.91157627105713,
+              35.95824294991766
+            ],
+            [
+              -78.91011714935303,
+              35.95819084347419
+            ],
+            [
+              -78.91054630279541,
+              35.95885085588478
+            ],
+            [
+              -78.91058921813965,
+              35.95942402008252
+            ],
+            [
+              -78.91052484512329,
+              35.95999718012068
+            ],
+            [
+              -78.91359329223633,
+              35.96046612614893
+            ],
+            [
+              -78.91473054885864,
+              35.96083086002356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#9C8530",
+        "fill-opacity": 0.4,
+        "name": "Fisher Heights"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.9093017578125,
+              35.95742661168723
+            ],
+            [
+              -78.90955924987793,
+              35.95725292161348
+            ],
+            [
+              -78.91232728958128,
+              35.957235552585104
+            ],
+            [
+              -78.91256332397461,
+              35.9579476796168
+            ],
+            [
+              -78.9132285118103,
+              35.95786083520059
+            ],
+            [
+              -78.9124345779419,
+              35.95506439395877
+            ],
+            [
+              -78.91161918640137,
+              35.954056956086426
+            ],
+            [
+              -78.90981674194336,
+              35.95357060217022
+            ],
+            [
+              -78.90865802764893,
+              35.95296265556411
+            ],
+            [
+              -78.90747785568237,
+              35.952702105586376
+            ],
+            [
+              -78.90702724456787,
+              35.95310161520082
+            ],
+            [
+              -78.90715599060059,
+              35.95403958635525
+            ],
+            [
+              -78.90670537948607,
+              35.955081763464584
+            ],
+            [
+              -78.9071774482727,
+              35.955759171212264
+            ],
+            [
+              -78.9084005355835,
+              35.95671447995752
+            ],
+            [
+              -78.9093017578125,
+              35.95742661168723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#429F2D",
+        "fill-opacity": 0.4,
+        "name": "Cook Road Park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.91213953495026,
+              35.953431643358435
+            ],
+            [
+              -78.91251504421234,
+              35.9535532323321
+            ],
+            [
+              -78.91267597675323,
+              35.95334696521265
+            ],
+            [
+              -78.91305685043335,
+              35.95331005419763
+            ],
+            [
+              -78.91366839408875,
+              35.95331005419763
+            ],
+            [
+              -78.91366839408875,
+              35.952882319412595
+            ],
+            [
+              -78.91364693641663,
+              35.95121261171569
+            ],
+            [
+              -78.91327679157257,
+              35.95117787099872
+            ],
+            [
+              -78.91269743442535,
+              35.95111707470728
+            ],
+            [
+              -78.91210198402405,
+              35.951138787673884
+            ],
+            [
+              -78.91213953495026,
+              35.953431643358435
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#429F2D",
+        "fill-opacity": 0.4,
+        "name": "Southwest Elementary School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.92490148544312,
+              35.925495960381134
+            ],
+            [
+              -78.92236948013306,
+              35.92711191254615
+            ],
+            [
+              -78.92067432403564,
+              35.92825869727439
+            ],
+            [
+              -78.91996622085571,
+              35.929040586416676
+            ],
+            [
+              -78.92166137695312,
+              35.92944021565904
+            ],
+            [
+              -78.92232656478882,
+              35.93036109274493
+            ],
+            [
+              -78.92505168914795,
+              35.92996146815704
+            ],
+            [
+              -78.92490148544312,
+              35.925495960381134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#429F2D",
+        "fill-opacity": 0.4,
+        "name": "WARNING: NOT PoGo Friendly!"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.94919157028198,
+              35.92178609580967
+            ],
+            [
+              -78.95056486129761,
+              35.921872979874095
+            ],
+            [
+              -78.95149827003479,
+              35.92210756637123
+            ],
+            [
+              -78.95235657691956,
+              35.92253329564436
+            ],
+            [
+              -78.9528501033783,
+              35.92244641230536
+            ],
+            [
+              -78.95265698432922,
+              35.9198833108648
+            ],
+            [
+              -78.9498245716095,
+              35.91972691554576
+            ],
+            [
+              -78.9497172832489,
+              35.92063921721393
+            ],
+            [
+              -78.94953489303589,
+              35.92109101985818
+            ],
+            [
+              -78.94917011260986,
+              35.92156019679549
+            ],
+            [
+              -78.94919157028198,
+              35.92178609580967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#9C8530",
+        "fill-opacity": 0.4,
+        "name": "Trotter Ridge Neighborhood"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.96028518676758,
+              35.929353339908616
+            ],
+            [
+              -78.96198034286498,
+              35.92982246782694
+            ],
+            [
+              -78.96225929260254,
+              35.93067384101341
+            ],
+            [
+              -78.96343946456909,
+              35.931038712429704
+            ],
+            [
+              -78.96401882171631,
+              35.93183794869556
+            ],
+            [
+              -78.96573543548584,
+              35.93194219630849
+            ],
+            [
+              -78.96777391433716,
+              35.93122983488049
+            ],
+            [
+              -78.9687180519104,
+              35.92961396687356
+            ],
+            [
+              -78.96921157836913,
+              35.92801544129763
+            ],
+            [
+              -78.96903991699219,
+              35.92730304448919
+            ],
+            [
+              -78.96562814712524,
+              35.92712928819642
+            ],
+            [
+              -78.96217346191406,
+              35.92723354201792
+            ],
+            [
+              -78.96069288253784,
+              35.9277548090635
+            ],
+            [
+              -78.96028518676758,
+              35.929353339908616
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#429F2D",
+        "fill-opacity": 0.4,
+        "name": "Jordan High School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.9608645439148,
+              35.92594773527975
+            ],
+            [
+              -78.96627187728882,
+              35.92571316017378
+            ],
+            [
+              -78.96632552146912,
+              35.921551508358974
+            ],
+            [
+              -78.96077871322632,
+              35.9214906892767
+            ],
+            [
+              -78.96089673042297,
+              35.921820849446895
+            ],
+            [
+              -78.96093964576721,
+              35.92356720005217
+            ],
+            [
+              -78.9608645439148,
+              35.92594773527975
             ]
           ]
         ]
